@@ -1,6 +1,5 @@
 ---
 title: 위성데이터 다운받기(windos & python & TROPOMI)
-layout: post
 comments: true
 ---
 
