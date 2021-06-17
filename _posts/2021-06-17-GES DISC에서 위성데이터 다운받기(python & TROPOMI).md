@@ -3,10 +3,10 @@
 - GES DISC는 GODDARD EARTH SCIENCES DATA AND INFORMATION SERVICES CENTER의 줄임말로 말그대로 쉽게 데이터를 다운받게 해주는 사이트라고 생각하시면 됩니다.
 
 ### 0. 환경 세팅하기
-###### - 만약 Earthdata 아이디가 없으시다면 먼저 [GES DISC 로그인](https://urs.earthdata.nasa.gov/) 해당 사이트에 접속하셔서 'register'를 누르고 가입을 해주신 후 진행하시면 됩니다. 회원가입 과정은 어렵지 않아 생략하겠습니다.
+###### - 만약 Earthdata 아이디가 없으시다면 먼저 [GES DISC 로그인](https://urs.earthdata.nasa.gov/){:target="_blank"} 해당 사이트에 접속하셔서 'register'를 누르고 가입을 해주신 후 진행하시면 됩니다. 회원가입 과정은 어렵지 않아 생략하겠습니다.
 
 
-###### - [GES DISC 다운로드](https://disc.gsfc.nasa.gov/) 사이트에 접속하신 후 'tropomi no2'라고 치시면 'Sentinel-5P TROPOMI Tropospheric NO2 1-Orbit L2 5.5km x 3.5km (S5P_L2__NO2____HiR 1)'라고  상단에 검색되는 데이터셋이 있는데 클릭 후 오른쪽 하단에 있는 'Subset / Get Data' 버튼을 누르시고 아래 사진을 참고하셔서 위성 데이터의 URL이 담긴 텍스트 파일을 받아주시면 됩니다.
+###### - [GES DISC 다운로드](https://disc.gsfc.nasa.gov/){:target="_blank"} 사이트에 접속하신 후 'tropomi no2'라고 치시면 'Sentinel-5P TROPOMI Tropospheric NO2 1-Orbit L2 5.5km x 3.5km (S5P_L2__NO2____HiR 1)'라고  상단에 검색되는 데이터셋이 있는데 클릭 후 오른쪽 하단에 있는 'Subset / Get Data' 버튼을 누르시고 아래 사진을 참고하셔서 위성 데이터의 URL이 담긴 텍스트 파일을 받아주시면 됩니다.
 
 ### [1]
 ![0](https://drive.google.com/uc?id=1GcaKMWHauce2wB74DYvsOSMF3HB1c92r)
