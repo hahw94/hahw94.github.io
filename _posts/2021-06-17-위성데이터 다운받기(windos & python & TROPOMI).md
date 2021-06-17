@@ -1,3 +1,7 @@
+...
+comments: true
+...
+
 # < GES DISC 사이트에서 위성 자료 다운 받기(Python) >
 
 - GES DISC는 GODDARD EARTH SCIENCES DATA AND INFORMATION SERVICES CENTER의 줄임말로 말그대로 쉽게 데이터를 다운받게 해주는 사이트라고 생각하시면 됩니다.
