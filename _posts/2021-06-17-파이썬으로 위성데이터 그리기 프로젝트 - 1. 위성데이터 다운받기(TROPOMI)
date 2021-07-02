@@ -1,6 +1,6 @@
 ---
 comments: true
-title : 위성데이터 다운받기(TROPOMI)
+title : 파이썬으로 위성데이터 그리기 프로젝트 - 1. 위성데이터 다운받기(TROPOMI)
 ---
 
 # < GES DISC 사이트에서 위성 자료 다운 받기 >
